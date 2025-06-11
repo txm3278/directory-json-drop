@@ -8,8 +8,8 @@
   "version": "1.0.3",
 	"socket": true,
   "compatibility": {
-      "minimum": "10",
-      "verified": "12"
+      "minimum": "13",
+      "verified": "13"
     },
   "scripts": ["directory-json-drop.js"],
   "relationships": {
