@@ -8,7 +8,7 @@
   "version": "1.0.3",
 	"socket": true,
   "compatibility": {
-      "minimum": "13",
+      "minimum": "10",
       "verified": "13"
     },
   "scripts": ["directory-json-drop.js"],
